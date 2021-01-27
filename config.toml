@@ -1,0 +1,30 @@
+baseURL = "https://gustinzhang.github.io/Blog/"
+languageCode = "zh-CN"
+title = "Miyuxuezhe's Blog"
+theme = "hyde"
+disqusShortname = "Gustin"
+hasCJKLanguage = true
+enableEmoji = true
+
+[permalinks]
+  posts = "/:filename/"
+
+[Menus]
+  main = [
+      {Name = "Archives", URL = "https://gustinzhang.github.io/Blog/posts/"},
+      {Name = "Tags", URL = "https://gustinzhang.github.io/Blog/tags/"},
+      {Name = "Photos", URL = "https://gustinzhang.github.io/Blog/photos/"}
+  ]
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # description about this website
+  description = "There is only one thing in the world worse than being talked about, and that is not being talked about."
+
+[params.valine]
+  enable = false
+    appId = ''
+    appKey = ''
+    placeholder = '既然来了，那就留个痕迹吧~'
+    visitor = true
