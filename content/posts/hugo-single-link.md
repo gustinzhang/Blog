@@ -4,7 +4,7 @@ date: 2020-04-13
 tags: tools
 ---
 
-还是扒了木木哥[主题样式](https://immmmm.com/hugo-shortcodes-article-link/)
+第一篇博客
 
 又搞了一下文章内链接，测试一下样式：
 
