@@ -1,9 +1,5 @@
 ---
-title: "欢迎来到 Hugo 世界"
-date: 2021-01-11
+title: "欢迎访问 Miyuxuezhe 的博客"
+date: 2021-02-1
 tags: tools
 ---
-
-欢迎来到 Hugo 世界。
-
-开始自己的博客之旅。
